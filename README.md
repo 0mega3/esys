@@ -3,7 +3,11 @@
 esλs
 ====
 
-The prototype of options evaluation system
+The prototype of options evaluation system.
+
+<img
+src="https://gitflic.ru/project/0mega3/_esys/blob/raw?file=docs%2Fdemo%2Fesysdemo.gif"
+style="height:900px;">
 
 License
 -------
