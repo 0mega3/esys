@@ -9,6 +9,9 @@ The prototype of options evaluation system.
 src="https://gitflic.ru/project/0mega3/_esys/blob/raw?file=docs%2Fdemo%2Fesysdemo.gif"
 style="height:900px;">
 
+[Overview and Features Walkthrough
+](https://gitflic.ru/project/0mega3/_esys/blob?file=docs%2Fpres%2Fesys.pdf)
+
 License
 -------
 
