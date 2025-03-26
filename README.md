@@ -1,16 +1,15 @@
-![](https://gitflic.ru/project/0mega3/_esys/blob/raw?file=docs%2Flogo%2Fesyslogo_prototype.png)
+![](https://gitflic.ru/project/0mega3/_esys/blob/raw?file=docs/logo/esyslogo.png)
 
 esλs
 ====
 
-The prototype of options evaluation system.
+The Prototype of Options Evaluation System.
 
 <img
-src="https://gitflic.ru/project/0mega3/_esys/blob/raw?file=docs%2Fdemo%2Fesysdemo.gif"
+src="https://gitflic.ru/project/0mega3/_esys/blob/raw?file=docs/demo/esysdemo.gif"
 style="height:900px;">
 
-[Overview and Features Walkthrough
-](https://gitflic.ru/project/0mega3/_esys/blob?file=docs%2Fpres%2Fesys.pdf)
+For more info, see [@TheErlangTrader](https://t.me/TheErlangTrader)
 
 License
 -------
