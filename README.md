@@ -1,23 +1,27 @@
-![](https://gitflic.ru/project/0mega3/_esys/blob/raw?file=docs/logo/esyslogo.png)
+![cover](assets/esyscover_80s_crt_p11_4k.png)
 
-esλs
-====
+# ESΛS
 
-The Prototype of Options Evaluation System.
+## Overview
 
-<img
-src="https://gitflic.ru/project/0mega3/_esys/blob/raw?file=docs/demo/esysdemo.gif"
-style="height:900px;">
+ESYS (The Estimation System) is a prototype for estimating
+theoretical option prices on futures. It calculates implied (IV)
+and historical (HV) volatility, which are required for
+option pricing, and uses them to build a volatility cone
+for forecasting. The prototype models the underlying asset price
+as geometric Brownian motion in discrete time, with a time step
+expressed in fractions of a year. It consists of class modules,
+modules, and Excel add-ins (.xlam) that extend Excel's capabilities.
 
-For more info, see [@TheErlangTrader](https://t.me/TheErlangTrader)
+ESYS was developed to test pricing and volatility hypotheses
+before moving to a full system implementation.
 
-License
--------
+[Presentation](docs/esys_rev3.pdf)
 
-`esλs` was created by Denis Khorkin. It is licensed under the terms
-of the BSD-3-Clause license.
+## License
 
-Credits
--------
+[BSD-3-Clause](LICENSE)
+
+## Credits
 
 - Denis Khorkin
